@@ -1,0 +1,14 @@
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.AssemblyInfoInputs.cache
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.AssemblyInfo.cs
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.csproj.CoreCompileInputs.cache
+d:\Genesis\C#Pro\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.exe
+d:\Genesis\C#Pro\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.deps.json
+d:\Genesis\C#Pro\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.runtimeconfig.json
+d:\Genesis\C#Pro\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.dll
+d:\Genesis\C#Pro\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.pdb
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.dll
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\refint\BankManagementSystem.dll
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.pdb
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.genruntimeconfig.cache
+d:\Genesis\C#Pro\BankManagementSystem\obj\Debug\net8.0\ref\BankManagementSystem.dll
